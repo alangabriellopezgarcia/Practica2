@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A7S21ACTI2</string>
+    <string name="MENUDEOPCIONES">TITULO</string>
+    <string name="TITULO">MENU DE OPCIONES</string>
+    <string name="btnpsumarnumeros">sumar numeros</string>
+    <string name="titulodeaplicacion">titulodeaplicacion</string>
+    <string name="titulosSumar">Sumar 2 numeros</string>
+    <string name="etiquetanum1">Ingrese el primer valor</string>
+    <string name="etiquetanum2">Ingrese el segundo numero</string>
+    <string name="btncalcular">calcular resultado</string>
+</resources>
